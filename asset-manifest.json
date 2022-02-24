@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AssignmentNurtureLab/static/css/main.49474993.chunk.css",
+    "main.js": "/AssignmentNurtureLab/static/js/main.19f732d9.chunk.js",
+    "main.js.map": "/AssignmentNurtureLab/static/js/main.19f732d9.chunk.js.map",
+    "runtime-main.js": "/AssignmentNurtureLab/static/js/runtime-main.a5a6bc8f.js",
+    "runtime-main.js.map": "/AssignmentNurtureLab/static/js/runtime-main.a5a6bc8f.js.map",
+    "static/js/2.45af65c1.chunk.js": "/AssignmentNurtureLab/static/js/2.45af65c1.chunk.js",
+    "static/js/2.45af65c1.chunk.js.map": "/AssignmentNurtureLab/static/js/2.45af65c1.chunk.js.map",
+    "static/js/3.a2abba22.chunk.js": "/AssignmentNurtureLab/static/js/3.a2abba22.chunk.js",
+    "static/js/3.a2abba22.chunk.js.map": "/AssignmentNurtureLab/static/js/3.a2abba22.chunk.js.map",
+    "index.html": "/AssignmentNurtureLab/index.html",
+    "static/css/main.49474993.chunk.css.map": "/AssignmentNurtureLab/static/css/main.49474993.chunk.css.map",
+    "static/js/2.45af65c1.chunk.js.LICENSE.txt": "/AssignmentNurtureLab/static/js/2.45af65c1.chunk.js.LICENSE.txt",
+    "static/media/spinner.42dd2327.gif": "/AssignmentNurtureLab/static/media/spinner.42dd2327.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5a6bc8f.js",
+    "static/js/2.45af65c1.chunk.js",
+    "static/css/main.49474993.chunk.css",
+    "static/js/main.19f732d9.chunk.js"
+  ]
+}
