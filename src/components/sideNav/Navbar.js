@@ -10,7 +10,7 @@ export default function Navbar() {
   <div className='row'>
     <div className='col-12 py-3'>
     <button className='btn-sm btn-primary mx-2 btnN ' >N</button>
-    <b> Name </b><span className='ml-4'>  &8592; </span>
+    <b> Name </b><span className='ml-4'>  &#8592; </span>
     </div>
   </div> 
 <div className='row'>
