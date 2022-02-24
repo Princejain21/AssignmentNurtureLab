@@ -1,0 +1,42 @@
+#hel{
+    background-color: black;
+    color: white;
+  }
+  body{
+    background-color: black !important;
+    color: white !important;
+    overflow-x: hidden;
+  }
+  .link{
+    background-color: black !important;
+  }
+  .link:hover{
+    background-color: rgb(15, 15, 15) !important;
+    border-radius: 30px;
+    
+  }
+  .border{
+    border-top: 2px solid rgb(58, 54, 54);
+  }
+  .btnN{
+    border-radius: 16px;
+  }
+  .tier{
+    background-color: rgb(132, 248, 248);
+  }
+  .radius{
+    border-radius: 13px;
+  }
+  .radius1{
+    border-radius: 13px;
+    background-color:#4a4e4e!important; ;
+  }
+  .placeholderValue::placeholder{
+    color: gainsboro;
+    border: 0px solid '';
+    font-size: small;
+  
+  }
+  .bg-secondary{
+    background-color: #0d0e0e!important;
+  }
